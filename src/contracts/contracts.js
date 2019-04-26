@@ -1,1 +1,1 @@
-module.exports = ["TerminalVending","Terminal"]
+module.exports = ["TokenVending","TokenVendable"]
