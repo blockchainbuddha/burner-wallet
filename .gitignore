@@ -36,10 +36,6 @@ public/reload.txt
 **/*.head.address
 **/*.previous.address
 **/*.compiled
-**/*.bytecode
-**/*.abi
-**/*.address
-src/contracts
 deploy.log
 public/reload.txt
 geth.log
